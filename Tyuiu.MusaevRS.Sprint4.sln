@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{37116537
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MusaevRS.Sprint4.Task1.V28.Lib", "Tyuiu.MusaevRS.Sprint4.Task1.V28.Lib\Tyuiu.MusaevRS.Sprint4.Task1.V28.Lib.csproj", "{1B3FFE81-BA9C-442B-8FFF-82A18493C9EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MusaevRS.Sprint4.Task2.V28.Test", "Tyuiu.MusaevRS.Sprint4.Task2.V28.Test\Tyuiu.MusaevRS.Sprint4.Task2.V28.Test.csproj", "{A135CF76-52E8-4C34-B403-82749C8D8A54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MusaevRS.Sprint4.Task1.V28.Test", "Tyuiu.MusaevRS.Sprint4.Task2.V28.Test\Tyuiu.MusaevRS.Sprint4.Task1.V28.Test.csproj", "{A135CF76-52E8-4C34-B403-82749C8D8A54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MusaevRS.Sprint4.Task1.V28", "Tyuiu.MusaevRS.Sprint4.Task1.V28\Tyuiu.MusaevRS.Sprint4.Task1.V28.csproj", "{1A9E1210-196F-4B24-BB02-061456A9A616}"
 EndProject
