@@ -51,8 +51,6 @@ namespace Tyuiu.MusaevRS.Sprint4.Task1.V28
             Console.WriteLine(res);
             Console.ReadKey();
          
-
-
             
         }
     }
