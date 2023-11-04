@@ -14,7 +14,7 @@ namespace Tyuiu.MusaevRS.Sprint4.Task1.V28.Test
             int[] numsArray = new int[14] { 2, 4, 4, 5, 3, 4, 4, 6, 2, 4, 5, 5, 4, 4 };
             int res = ds.Calculate(numsArray);
 
-            int wait = 375; 
+            int wait = 375;
             Assert.AreEqual(wait, res);
         }
     }

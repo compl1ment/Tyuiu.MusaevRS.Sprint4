@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A135CF76-52E8-4C34-B403-82749C8D8A54}</ProjectGuid>
+    <ProjectGuid>{41D6275D-96F5-47D0-9DC1-0F512123AA25}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tyuiu.MusaevRS.Sprint4.Task1.V28.Test</RootNamespace>
