@@ -12,6 +12,7 @@ namespace Tyuiu.MusaevRS.Sprint4.Task1.V28
         static void Main(string[] args)
         {
             DataService ds = new DataService();
+
             Console.Title = "Спринт #4 | Выполнил Мусаев Р.Ш. | ПКТб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
