@@ -36,7 +36,7 @@ namespace Tyuiu.MusaevRS.Sprint4.Task4.V3
             Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");
             int res = ds.Calculate(matrix);
-            Console.WriteLine(res);
+            Console.WriteLine("* " + res + "                                                                      *");
             Console.WriteLine("***************************************************************************");
             Console.ReadKey();
         }
