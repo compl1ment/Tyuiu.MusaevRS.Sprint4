@@ -42,15 +42,8 @@ namespace Tyuiu.MusaevRS.Sprint4.Task7.V23
                     }
                     Console.WriteLine();
                 }
-
-
-
-
-            }
-            
-                   
-
-                    Console.WriteLine("***************************************************************************");
+            }                              
+            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат:                                                              *");
             int res = ds.Calculate(rows, colums, value);
             Console.WriteLine(res);
