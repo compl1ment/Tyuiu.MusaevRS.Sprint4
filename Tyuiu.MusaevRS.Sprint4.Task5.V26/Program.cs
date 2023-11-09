@@ -34,8 +34,24 @@ namespace Tyuiu.MusaevRS.Sprint4.Task5.V26
             Console.WriteLine("* Количество столбцов = " + colums);
             Console.WriteLine("***************************************************************************");
             for (int i = 0; i < rows; i++)
+            {
                 for (int j = 0; j < colums; j++)
-                    matrix[i, j] = rnd.Next(-4, 4);
+                {
+                    matrix[i, j] = rnd.Next(-4, 4);                                       
+                }
+            }           
+            {
+                for (int l = 0; l < rows;l++)
+                {
+                    for (int y = 0; y < colums; y++)
+                    {
+                        Console.Write(matrix[l, y] + "\t");                        
+                    }
+                    Console.WriteLine();
+                   
+                }           
+            }
+            Console.WriteLine("***************************************************************************");
             int[,] res = ds.Calculate(matrix);
             Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");
